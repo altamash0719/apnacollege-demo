@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-Author - Altamash Inamdar
+Author - Altamash (apna college)
